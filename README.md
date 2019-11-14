@@ -1,7 +1,7 @@
 # FCRN-DepthPrediction
-This program was remodeled by miu (miu200521358) forking [FCRN-DepthPrediction] (https://github.com/iro-cp/FCRN-DepthPrediction) \ (Iro Laina et al. \).
+This program was remodeled by miu (miu200521358) forking [FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction)
 
-Please check the above URL or [README-original.md] (README-original.md) for details of operation.
+Please check the above URL or [README-original.md](README-original.md) for details of operation.
 
 ## Functional overview
 
